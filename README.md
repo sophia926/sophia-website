@@ -1,1 +1,72 @@
 # sophia-website
+Want to include:
+- Home
+    - Student, Coder, Reader, Runner (animation)
+    - Links to GitHub, Mail (create new email), Linkedin, Goodreads
+- Awards
+    - CyberPatriot National Champion, Cisco Challenge Winner, State Award, top __%
+    - SoCal Cyber Cup 2nd place
+    - NCWIT Award for Aspirations in Computing 2022 Certificate of Distinction recipient
+    - Honors high school women for their computing-related achievements and interests, and encourages them to pursue their passions. 
+        - Award recipients are selected based on their aptitude and aspirations in technology and computing, as demonstrated by their computing experience, computing-related activities, leadership experience, tenacity in the face of barriers to access, and future plans
+    - PCV Spring Prize 2022 High School Track - placed top ⅓
+    - 2022 Franklin Research Internship Program (FRIP) Competition Semi-Finalist
+        - Original research in environment
+    - Global Outstanding Youth Ambassador of Practicing SDG & Carbon Neutrality Activities
+    - SZM Scholarship 3rd place two years
+        - SongZhongMei (SZM) Scholarship has awarded more than 100 students from schools in Southern California. This scholarship aims to encourage the second generation Chinese immigrants (Grade 1-12) who have achieved academic excellence, made great contributions to the community and celebrated Chinese culture.
+    - Martin Luther King High School MiniCon - Retail Merchandising Series (RMS), 1st place roleplay, overall finalist
+    - DECA SoCal District Career Development Conference - Accounting Applications Series (ACT), 3rd place grand prize overall
+    - OVMS President Excellence Award (4.0 cumulative GPA)
+    - International Youth Art and Technology Competition - 1st and 3rd Place in Art and Writing contests, respectively (2019?)
+    - Southern California Chinese Essay Writing Competition - 1st Place
+    - Gold medals in various ice skating synchronized skating regional competitions, 4th Place in Wichita Synchronized Skating Sectionals
+    - Great Artist Award - winning designer of Stallion Stampede design for Highland Ranch Elementary School
+    - Honorable Mention - PTA Reflections contest
+    - Excellence Award (1st Place) - Green Horizon Creative Environment Art Competition
+    - State and Branch Awards for Certificate of Merit piano
+    - Winner of Youth Bach Festival
+    - Sonata / Sonatina Festival Honorable Mention
+- Activities
+
+    - Curricular: 
+        - The Featheralist
+            - Compose writing pieces of varying genres as well as graphic design the print magazines for student publication that has won many prestigious national awards (Columbia Scholastic Press Association Gold Medal, a Crown Awards Finalist)
+        - RISE club
+        - Conduct research on air quality
+    - Extracurricular:
+        - Tech Caregiver
+            - Educate the elderly about risks of being online and how to protect oneself in this golden digital age
+        - Research with Dongyin
+            - Create slides and teaching content for the AI curriculum used for the experiment
+        - Staff Writer for Reinvented Blog
+            - Write Blog articles for Reinvented Blog that highlight accomplishments of women in STEM and also latest science and technology breakthroughs
+        - Kiano
+            - Upload recorded songs to Spotify
+            - 2022 statistics:
+            - 1.4k streams
+            - 270 listeners
+            - 37 countries
+            - 70 hours
+    - Leadership positions:
+        - Green Horizon Ambassador
+            - Spread awareness for upcycling and recycling, as well as the environment
+        - Zipline Theory Directory of Community 
+            - Engage Zipline Theory community on discord
+            - Grow membership of discord
+            - Manage channels, roles, and bots
+            - Plan community events!
+        - SAMI Director of San Diego, California Chapter
+            - Recruit and coordinate students in their chapters to attend SAMI’s free tutoring programs
+        - SAGE (Science Accelerates Girls’ Excellence) Outreach Coordinator
+            - Email middle schools for announcements about SAGE sessions
+            - Post session info in parent groups (WeChat, Facebook, Twitter)
+            - Advertise in local libraries/public spaces
+            - Brainstorm other ways to reach/engage more students and implement them
+            - When I started: reached 900+ students in 5 countries and held 92+ classes
+            - 09/07/2022: Recognized in the San Diego Union Tribune
+            - 09/2022: Brian Maianschein sent me a personal letter to recognize my contribution for SAGE and girls in STEM
+            - Write the SAGE newsletter
+            - Started SAGEmpowers (A mentorship program offering opportunities for students to explore their passions through competitions and projects) and SAGElevates (A tutoring program helping students with STEM subjects such as math, physics, and chemistry!)
+
+- My Blog
